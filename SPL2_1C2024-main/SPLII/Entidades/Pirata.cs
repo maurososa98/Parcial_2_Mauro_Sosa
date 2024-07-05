@@ -18,10 +18,12 @@ namespace Entidades
         {
             get 
             {
-                int retorno = base.tripulacion;
-                if (this == null) 
-                { 
+                Random random = new Random();
 
+                int retorno = base.tripulacion;
+                if (base.tripulacion == 0) 
+                {
+                    base.tripulacion = random.Next(10,30);
                 }
                 return 0; 
             }
@@ -29,22 +31,11 @@ namespace Entidades
 
         public override void CalcularCosto()
         {
-            throw new NotImplementedException();
+            Random random = new Random();
+            base.costo = random.Next(2000, 12000);
+
         }
 
-        public override string ToString()
-        {
-            //string numNormalizado = this is Libro ? $"\nISBN: {this.numNormalizado}" : "";
-
-            StringBuilder texto = new StringBuilder();
-            texto.AppendLine($"\nCosto: {this.Costo}");
-            texto.AppendLine($"EstadoReparado: {this.EstadoReparado}");
-            texto.AppendLine($"Nombre: {this.Nombre}");
-            texto.Append($"Operacion: {this.Operacion}");
-            texto.Append($"Tripulacion: {this.Tripulacion}");
-
-            return texto.ToString();
-        }
 
 
     }
