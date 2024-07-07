@@ -1,0 +1,48 @@
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Entidades\obj\Debug\net8.0\ref\Entidades.dll

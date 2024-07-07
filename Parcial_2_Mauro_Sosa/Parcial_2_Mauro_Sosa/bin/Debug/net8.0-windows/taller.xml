@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Taller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barcos>
+    <Barco xsi:type="Pirata">
+      <Costo>4948.0327</Costo>
+      <EstadoReparado>false</EstadoReparado>
+      <Nombre>B1</Nombre>
+      <Operacion>Pintar</Operacion>
+      <Tripulacion>10</Tripulacion>
+      <Id>0</Id>
+    </Barco>
+  </Barcos>
+</Taller>

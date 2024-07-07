@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmtaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmtaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmtaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmtaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmbarcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmbarcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmcargarbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmcargarbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\parcial_2_mauro_sosa\\formularios\\frmcargarbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335E6C-2C7F-482C-8932-2431E2F16DEF}|Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa.csproj|solutionrelative:parcial_2_mauro_sosa\\formularios\\frmcargarbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9166D1AC-C3C9-4DB0-BE49-377A9E93CE3A}|Entidades\\Entidades.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\entidades\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9166D1AC-C3C9-4DB0-BE49-377A9E93CE3A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9166D1AC-C3C9-4DB0-BE49-377A9E93CE3A}|Entidades\\Entidades.csproj|c:\\users\\mauro\\desktop\\parcial_2_estructura - copia\\parcial_2_mauro_sosa\\entidades\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9166D1AC-C3C9-4DB0-BE49-377A9E93CE3A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:19:49.912Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmReparacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:58:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEliminar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:57:37.168Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTaller.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:08:11.867Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTaller.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmTaller.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAlwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:03:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBarcos.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmBarcos.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmBarcos.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmBarcos.cs",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmBarcos.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:23:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEliminar.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmEliminar.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:10:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCargarBarco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:54:45.381Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XmlManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Entidades\\XmlManager.cs",
+              "RelativeDocumentMoniker": "Entidades\\XmlManager.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Entidades\\XmlManager.cs",
+              "RelativeToolTip": "Entidades\\XmlManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:09:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Entidades\\IArchivos.cs",
+              "RelativeDocumentMoniker": "Entidades\\IArchivos.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Entidades\\IArchivos.cs",
+              "RelativeToolTip": "Entidades\\IArchivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:09:04.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCargarBarco.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "RelativeDocumentMoniker": "Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\PARCIAL_2_Estructura - copia\\Parcial_2_Mauro_Sosa\\Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "RelativeToolTip": "Parcial_2_Mauro_Sosa\\Formularios\\frmCargarBarco.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:03:45.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

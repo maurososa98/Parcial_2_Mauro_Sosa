@@ -1,0 +1,126 @@
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.exe
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.runtimeconfig.json
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\refint\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\ref\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.frmPrincipal.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Properties.Resources.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmInformes.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.exe
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.runtimeconfig.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmInformes.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.frmPrincipal.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Properties.Resources.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_.056F882B.Up2Date
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\refint\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\ref\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formAgregar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formEliminar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formAgregar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formEliminar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_.056F882B.Up2Date
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.exe
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.runtimeconfig.json
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formAgregar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.formEliminar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmEntidades.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmInformes.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.frmPrincipal.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Properties.Resources.resources
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_.056F882B.Up2Date
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\refint\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia (2)\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\ref\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2 - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmEntidades.resources
+C:\Users\Mauro\Desktop\PARCIAL_2\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmEntidades.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.exe
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.deps.json
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.runtimeconfig.json
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.frmPrincipal.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Properties.Resources.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_.056F882B.Up2Date
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\refint\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.pdb
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\ref\Parcial_2_Mauro_Sosa.dll
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmTaller.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmBarcos.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmAgregar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmCargarBarco.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.frmEliminar.resources
+C:\Users\Mauro\Desktop\PARCIAL_2_Estructura - copia\Parcial_2_Mauro_Sosa\Parcial_2_Mauro_Sosa\obj\Debug\net8.0-windows\Parcial_2_Mauro_Sosa.Formularios.FrmReparacion.resources

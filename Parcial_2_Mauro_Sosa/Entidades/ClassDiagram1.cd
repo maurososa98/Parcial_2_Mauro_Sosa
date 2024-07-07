@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Pirata">
+    <Position X="0.75" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Pirata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Taller">
+    <Position X="6.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAUAAAAAAgAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Taller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Marina">
+    <Position X="3.5" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Marina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.GenerarRandom">
+    <Position X="3.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIA=</HashCode>
+      <FileName>GenerarRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.XmlManager">
+    <Position X="8.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>XmlManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.AccesoDatos">
+    <Position X="3.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAgACAABAAAAAIQQgAAAAAAABAAAAAA=</HashCode>
+      <FileName>AccesoDatos.cs</FileName>
+      <NewMemberFileName>Barco.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Barco">
+    <Position X="0.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAACAEABIAAAACCEAAAAgACBAAAAAAAAAAEQAAABAgA=</HashCode>
+      <FileName>Barco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IArchivos">
+    <Position X="6.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>IArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Entidades.EOperacion">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAEAEAAAFAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>EOperacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ETipoBarco">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ETipoBarco.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9.13" />
+</ClassDiagram>
